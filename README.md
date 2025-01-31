@@ -1,8 +1,9 @@
-# blood_donor_app
+## Objetivo
+Este projeto foi desenvolvido para poder dar suporte a uma aplicação
+realizada em flutter para atender as necessidades de uma agencia de
+banco de sangue para quem possa doar sangue e cadastrar também.
 
-Projeto para mostrar as informações de doadores de sangue e poder cadastrar também
-
-## Começar
+## Começando
 
 - Tenha o flutter SDK abaixado e configurado na variavel de ambiente do windows ou outro sistema
 - Comando:  flutter pub get => para atualizar e instalar as dependencias do projeto
